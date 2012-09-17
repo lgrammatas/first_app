@@ -21,6 +21,6 @@ doc/
 .project
 .DS_Store
 .idea
-Gemfile.lock
+#Gemfile.lock
 *.swp
 .DS_Store
